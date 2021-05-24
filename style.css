@@ -1,0 +1,42 @@
+body {
+    width:1000px;
+    background-color: #f4f5f5;
+    background-image: radial-gradient(#d1d4d9 1px, transparent 1px);
+    background-size: 8px 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.5;
+    font-family: Verdana;
+}
+
+
+.images {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+ul {
+    list-style-type: none;
+}
+
+.contact-info {
+    width:400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.experience {
+    width:400px;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+section{
+    padding-bottom: 100px;
+}
